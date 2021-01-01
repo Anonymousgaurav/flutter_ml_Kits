@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "771324411668",
+    "project_id": "flutter-text-recognition-40474",
+    "storage_bucket": "flutter-text-recognition-40474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771324411668:android:1f9790ca4141c65932cc01",
+        "android_client_info": {
+          "package_name": "com.gaurav.flutter_text_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771324411668-ehigqhmo6eunvqs5ocbchklr4ia7q6cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.flutter_text_recognition",
+            "certificate_hash": "8d7bd5363fe482f3b8b13615acb2d034331cbce1"
+          }
+        },
+        {
+          "client_id": "771324411668-0cv0n0rq2ikkfrfmaj77pdhb8v45c4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7oSudSI97ZnR2r44M3-eA67xnJjbpyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771324411668-0cv0n0rq2ikkfrfmaj77pdhb8v45c4rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
